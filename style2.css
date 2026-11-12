@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: lab(98.57% -9.82 26.5);
+    padding-top: 20px;
+}
+
+.topo{
+    align-items: center;
+    text-align: center;
+}
+
+label, select {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+button, .btn {
+    background: #5e3905;
+    color: white;
+    border: 15%;
+    border-radius: 15%;
+    width: 15%;
+    margin-top: 15px;
+    box-sizing: content-box;
+}
+
+.wsp {
+    background: #25d366;
+}
+img{
+    text-align: center;
+}
+
+.formulario{
+    align-content: center;
+   
+    border-radius: 15%;
+    border-color: rgb(255, 255, 255);
+}
